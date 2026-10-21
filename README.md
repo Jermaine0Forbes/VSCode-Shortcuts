@@ -19,3 +19,7 @@ Reverse indent | shift + tab | shift + tab
 Select all occurrences | ctrl + shift + L | cmd + shift + L
 
 
+<video width="480" controls>
+  <source src="2026-10-21 07-19-37.mp4" type="video/mp4">
+  your browser doesn't support this video
+</video>
