@@ -25,3 +25,5 @@ Select all occurrences | ctrl + shift + L | cmd + shift + L
 </video>
 
 ![this is a gif file](testgif.gif)
+
+![this is a webp file](test480webp.webp)
