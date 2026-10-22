@@ -23,3 +23,5 @@ Select all occurrences | ctrl + shift + L | cmd + shift + L
   <source src="2026-10-21 07-19-37.mp4" type="video/mp4">
   your browser doesn't support this video
 </video>
+
+![this is a gif file](testgif.gif)
