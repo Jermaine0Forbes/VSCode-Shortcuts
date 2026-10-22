@@ -27,3 +27,5 @@ Select all occurrences | ctrl + shift + L | cmd + shift + L
 ![this is a gif file](testgif.gif)
 
 ![this is a webp file](test480webp.webp)
+
+<img src="test480webp.webp" width=240" alt="this is another webp file" />
