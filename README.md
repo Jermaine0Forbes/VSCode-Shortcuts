@@ -1,12 +1,19 @@
 # VSCode Shortcuts
 A collection of different shortcut keys that make it easier to use vscode
 
+
+[home]:#vscode-shortcuts
+[comment-out-lines]:#comment-out-lines
+[delete-lines]:#delete-lines
+[duplicate-lines]:#duplicate-lines
+[find-a-symbol]:#find-a-symbol
+
 Description | Windows Command | Mac Command 
 --|--|--
-Comment out line | ctrl + / | cmd + /
-Delete a line | ctrl + shift + K | cmd + shift + K
-Duplicate code | alt + shift + :arrow_up:/:arrow_down: | option + shift + :arrow_up:/:arrow_down:
-Find a symbol | ctrl + shift + O | ctrl + shift + O
+[Comment out lines][comment-out-lines] | ctrl + / | cmd + /
+[Delete lines][delete-lines] | ctrl + shift + K | cmd + shift + K
+[Duplicate lines][duplicate-lines] | alt + shift + :arrow_up:/:arrow_down: | option + shift + :arrow_up:/:arrow_down:
+[Find a symbol][find-a-symbol] | ctrl + shift + O | ctrl + shift + O
 Find and replace | ctrl + F | cmd + F
 Format code | alt + shift + F | option + shift + F
 Go to definition | ctrl + click | cmd + click
@@ -18,14 +25,63 @@ Quick open | ctrl + P | cmd + P
 Reverse indent | shift + tab | shift + tab
 Select all occurrences | ctrl + shift + L | cmd + shift + L
 
+### Find a symbol
 
-<video width="480" controls>
-  <source src="2026-10-21 07-19-37.mp4" type="video/mp4">
-  your browser doesn't support this video
-</video>
+<details>
+<summary>
+View Content
+</summary>
 
-![this is a gif file](testgif.gif)
+![this is a webp file](vscode - find symbol.webp)
 
-![this is a webp file](test480webp.webp)
+</details>
 
-<img src="test480webp.webp" width="480" alt="this is another webp file" />
+[go back :house:][home]
+
+
+### Duplicate lines
+
+<details>
+<summary>
+View Content
+</summary>
+
+![this is a webp file](vscode - duplicate code.webp)
+
+</details>
+
+[go back :house:][home]
+
+
+### Delete lines
+
+<details>
+<summary>
+View Content
+</summary>
+
+![this is a webp file](vscode - delete line.webp)
+
+</details>
+
+[go back :house:][home]
+
+
+
+### Comment out lines
+
+<details>
+<summary>
+View Content
+</summary>
+
+![this is a webp file](vscode - comment ount line.webp)
+
+</details>
+
+[go back :house:][home]
+
+
+
+
+
