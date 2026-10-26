@@ -32,7 +32,7 @@ Select all occurrences | ctrl + shift + L | cmd + shift + L
 View Content
 </summary>
 
-![this is a webp file](vscode - find symbol.webp)
+![this is a webp file](images/vscode - find symbol.webp)
 
 </details>
 
@@ -46,7 +46,7 @@ View Content
 View Content
 </summary>
 
-![this is a webp file](vscode - duplicate code.webp)
+![this is a webp file](images/vscode - duplicate code.webp)
 
 </details>
 
