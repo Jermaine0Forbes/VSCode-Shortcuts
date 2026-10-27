@@ -32,7 +32,9 @@ Select all occurrences | ctrl + shift + L | cmd + shift + L
 View Content
 </summary>
 
-![this is a webp file](images/vscode - find symbol.webp)
+Find different symbols within your document
+
+![this is a webp file](/images/vscode-comment-out-line.webp)
 
 </details>
 
@@ -45,8 +47,9 @@ View Content
 <summary>
 View Content
 </summary>
+Duplicate lines of code
 
-![this is a webp file](images/vscode - duplicate code.webp)
+![this is a webp file](images/vscode-duplicate-code.webp)
 
 </details>
 
@@ -59,8 +62,8 @@ View Content
 <summary>
 View Content
 </summary>
-
-![this is a webp file](vscode - delete line.webp)
+Delete lines of code
+![this is a webp file](images/vscode-delete-line.webp)
 
 </details>
 
@@ -74,8 +77,8 @@ View Content
 <summary>
 View Content
 </summary>
-
-![this is a webp file](vscode - comment ount line.webp)
+Comment lines of code
+![this is a webp file](images/vscode-comment-out-line.webp)
 
 </details>
 
