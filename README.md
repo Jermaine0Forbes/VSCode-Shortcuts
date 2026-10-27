@@ -63,6 +63,7 @@ Duplicate lines of code
 View Content
 </summary>
 Delete lines of code
+
 ![this is a webp file](images/vscode-delete-line.webp)
 
 </details>
