@@ -10,7 +10,10 @@ A collection of different shortcut keys that make it easier to use vscode
 [find-and-replace]:#find-and-replace
 [format-code]:#format-code
 [go-to-definition]:#go-to-definition
-[highlight-a-line]:#highlight-a-line
+[indent]:#indent
+[moving-lines]:#moving-lines
+[multiple-cursors]:#multiple-cursors
+[quick-open]:#quick-open
 
 Description | Windows Command | Mac Command 
 --|--|--
@@ -22,12 +25,74 @@ Description | Windows Command | Mac Command
 [Format code][format-code] | alt + shift + F | option + shift + F
 [Go to definition][go-to-definition] | ctrl + click | cmd + click
 [Highlight a line][highlight-a-line] | ctr + L | cmd + L
-Indent | tab | tab
-Moving lines | alt + :arrow_up:/:arrow_down: | option + :arrow_up:/:arrow_down:
-Multiple cursors | ctrl + alt + :arrow_up:/:arrow_down: | cmd + option + :arrow_up:/:arrow_down:
-Quick open | ctrl + P | cmd + P
+[Indent][indent] | tab | tab
+[Moving lines][moving-lines] | alt + :arrow_up:/:arrow_down: | option + :arrow_up:/:arrow_down:
+[Multiple cursors][multiple-cursors] | ctrl + alt + :arrow_up:/:arrow_down: | cmd + option + :arrow_up:/:arrow_down:
+[Quick open][quick-open] | ctrl + P | cmd + P
 Reverse indent | shift + tab | shift + tab
 Select all occurrences | ctrl + shift + L | cmd + shift + L
+
+
+### Quick open
+
+<details>
+<summary>
+View Content
+</summary>
+
+ Quick open let's you search for a file, look at the most recent files you opened, find a symbol in the current file, go to a specific line in the current file
+
+![this is a webp file](/images/vs-quick-open.webp)
+
+</details>
+
+[go back :house:][home]
+
+### Multiple cursors
+
+<details>
+<summary>
+View Content
+</summary>
+
+Create multiple cursors on the document
+
+![this is a webp file](/images/vs-multiple-cursors.webp)
+
+</details>
+
+[go back :house:][home]
+
+### Moving Lines
+
+<details>
+<summary>
+View Content
+</summary>
+
+**Note**
+In order to highlight multiple lines you have to first do (ctr + L | cmd + L), then hold the SHIFT button and use the up/down arrow keys
+
+![this is a webp file](/images/vs-moving-lines.webp)
+
+</details>
+
+[go back :house:][home]
+
+### Indent
+
+<details>
+<summary>
+View Content
+</summary>
+
+Move your code horizontally with this command
+
+![this is a webp file](/images/vs-indent.webp)
+
+</details>
+
+[go back :house:][home]
 
 ### Highlight a line
 
@@ -37,6 +102,9 @@ View Content
 </summary>
 
 Select or highlight lines with this command
+
+**Note**
+If you hold the shift key and press up/down arrow keys you can highlight multiples lines
 
 ![this is a webp file](/images/vscode-highlight-a-line.webp)
 
