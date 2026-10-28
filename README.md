@@ -10,10 +10,13 @@ A collection of different shortcut keys that make it easier to use vscode
 [find-and-replace]:#find-and-replace
 [format-code]:#format-code
 [go-to-definition]:#go-to-definition
+[highlight-a-line]:#highlight-a-line
 [indent]:#indent
 [moving-lines]:#moving-lines
 [multiple-cursors]:#multiple-cursors
 [quick-open]:#quick-open
+[reverse-indent]:#reverse-indent
+[select-all-occurrences]:#select-all-occurrences
 
 Description | Windows Command | Mac Command 
 --|--|--
@@ -29,9 +32,40 @@ Description | Windows Command | Mac Command
 [Moving lines][moving-lines] | alt + :arrow_up:/:arrow_down: | option + :arrow_up:/:arrow_down:
 [Multiple cursors][multiple-cursors] | ctrl + alt + :arrow_up:/:arrow_down: | cmd + option + :arrow_up:/:arrow_down:
 [Quick open][quick-open] | ctrl + P | cmd + P
-Reverse indent | shift + tab | shift + tab
-Select all occurrences | ctrl + shift + L | cmd + shift + L
+[Reverse indent][reverse-indent] | shift + tab | shift + tab
+[Select all occurrences][select-all-occurrences] | ctrl + shift + L | cmd + shift + L
 
+### Select all occurrences
+
+<details>
+<summary>
+View Content
+</summary>
+
+ Highlight a word or character and find the same words within the document that will allow you to make an edit of them
+
+![this is a webp file](/images/vs-select-all-occurrences.webp)
+
+</details>
+
+[go back :house:][home]
+
+
+
+### Reverse indent
+
+<details>
+<summary>
+View Content
+</summary>
+
+ Self explanatory
+
+![this is a webp file](/images/vs-reverse-indent.webp)
+
+</details>
+
+[go back :house:][home]
 
 ### Quick open
 
