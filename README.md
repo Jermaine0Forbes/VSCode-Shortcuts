@@ -38,7 +38,7 @@ Description | Windows Command | Mac Command
 [Multiple cursors][multiple-cursors] | <kbd>ctrl</kbd> + <kbd>alt</kbd> + :arrow_up:/:arrow_down:  | <kbd>cmd</kbd> + <kbd>option</kbd> + :arrow_up:/:arrow_down: 
 [Quick open][quick-open] | <kbd>ctrl</kbd> + <kbd>P</kbd> | <kbd>cmd</kbd> + <kbd>P</kbd>
 [Reverse indent][reverse-indent] | <kbd>shift</kbd> + <kbd>tab</kbd> | <kbd>shift</kbd> + <kbd>tab</kbd>
-[Switch tabs][switch-<kbd>tab</kbd>s] | <kbd>ctrl</kbd>  + <kbd>page up</kbd>/<kbd>page down</kbd> | <kbd>cmd</kbd> + <kbd>page up</kbd>/<kbd>page down</kbd>
+[Switch tabs][switch-tabs] | <kbd>ctrl</kbd>  + <kbd>page up</kbd>/<kbd>page down</kbd> | <kbd>cmd</kbd> + <kbd>page up</kbd>/<kbd>page down</kbd>
 [Toggle terminal][toggle-terminal] | <kbd>ctrl</kbd> + <kbd>\`</kbd> | <kbd>cmd</kbd> +   <kbd>\`</kbd> 
 [Toggle sidebar][toggle-sidebar] | <kbd>ctrl</kbd> + <kbd>B</kbd>   | <kbd>cmd</kbd> + <kbd>B</kbd>   
 
