@@ -17,6 +17,9 @@ A collection of different shortcut keys that make it easier to use vscode
 [quick-open]:#quick-open
 [reverse-indent]:#reverse-indent
 [select-all-occurrences]:#select-all-occurrences
+[toggle-terminal]:#toggle-terminal
+[toggle-sidebar]:#toggle-sidebar
+[switch-tabs]:#switch-tabs
 
 Description | Windows Command | Mac Command 
 --|--|--
@@ -33,7 +36,9 @@ Description | Windows Command | Mac Command
 [Multiple cursors][multiple-cursors] | ctrl + alt + :arrow_up:/:arrow_down: | cmd + option + :arrow_up:/:arrow_down:
 [Quick open][quick-open] | ctrl + P | cmd + P
 [Reverse indent][reverse-indent] | shift + tab | shift + tab
-[Select all occurrences][select-all-occurrences] | ctrl + shift + L | cmd + shift + L
+[Toggle terminal][toggle-terminal] | ctrl + \` | cmd +   \`
+[Toggle sidebar][toggle-sidebar] | ctrl + B | cmd + B
+[Switch tabs][switch-tabs] | ctrl + <kbd>page up</kbd>/<kbd>page down</kbd> | cmd + <kbd>page up</kbd>/<kbd>page down</kbd>
 
 ### Select all occurrences
 
