@@ -19,7 +19,7 @@ A collection of different shortcut keys that make it easier to use vscode
 [select-all-occurrences]:#select-all-occurrences
 [toggle-terminal]:#toggle-terminal
 [toggle-sidebar]:#toggle-sidebar
-[switch-<kbd>tab</kbd>s]:#switch-<kbd>tab</kbd>s
+[switch-tabs]:#switch-tabs
 [mru-list]:#mru-list
 
 Description | Windows Command | Mac Command 
@@ -34,13 +34,74 @@ Description | Windows Command | Mac Command
 [Highlight a line][highlight-a-line] | <kbd>ctrl</kbd>+ <kbd>L</kbd> | <kbd>cmd</kbd> + <kbd>L</kbd> 
 [Indent][indent] | <kbd>tab</kbd> | <kbd>tab</kbd> 
 [Moving lines][moving-lines] | <kbd>alt</kbd> + :arrow_up:/:arrow_down:  | <kbd>option</kbd> + :arrow_up:/:arrow_down: 
+[MRU list][mru-list] | <kbd><kbd>ctrl</kbd></kbd> + <kbd>tab</kbd> | <kbd>cmd</kbd> + <kbd>tab</kbd> 
 [Multiple cursors][multiple-cursors] | <kbd>ctrl</kbd> + <kbd>alt</kbd> + :arrow_up:/:arrow_down:  | <kbd>cmd</kbd> + <kbd>option</kbd> + :arrow_up:/:arrow_down: 
 [Quick open][quick-open] | <kbd>ctrl</kbd> + <kbd>P</kbd> | <kbd>cmd</kbd> + <kbd>P</kbd>
 [Reverse indent][reverse-indent] | <kbd>shift</kbd> + <kbd>tab</kbd> | <kbd>shift</kbd> + <kbd>tab</kbd>
+[Switch tabs][switch-<kbd>tab</kbd>s] | <kbd>ctrl</kbd>  + <kbd>page up</kbd>/<kbd>page down</kbd> | <kbd>cmd</kbd> + <kbd>page up</kbd>/<kbd>page down</kbd>
 [Toggle terminal][toggle-terminal] | <kbd>ctrl</kbd> + <kbd>\`</kbd> | <kbd>cmd</kbd> +   <kbd>\`</kbd> 
 [Toggle sidebar][toggle-sidebar] | <kbd>ctrl</kbd> + <kbd>B</kbd>   | <kbd>cmd</kbd> + <kbd>B</kbd>   
-[Switch <kbd>tab</kbd>s][switch-<kbd>tab</kbd>s] | <kbd>ctrl</kbd>  + <kbd>page up</kbd>/<kbd>page down</kbd> | <kbd>cmd</kbd> + <kbd>page up</kbd>/<kbd>page down</kbd>
-[MRU list][mru-list] | <kbd><kbd>ctrl</kbd></kbd> + <kbd>tab</kbd> | <kbd>cmd</kbd> + <kbd>tab</kbd> 
+
+### Toggle terminal
+
+<details>
+<summary>
+View Content
+</summary>
+
+Toggle the terminal
+
+![this is a webp file](/images/vscode-toggle-terminal.webp)
+
+</details>
+
+[go back :house:][home]
+
+
+### Toggle sidebar
+
+<details>
+<summary>
+View Content
+</summary>
+
+ toggle the left sidebar
+
+![this is a webp file](/images/vscode-toggle-sidebar.webp)
+
+</details>
+
+[go back :house:][home]
+
+### Switch tabs
+
+<details>
+<summary>
+View Content
+</summary>
+
+Switch through the different tabs that are already opened in the editor
+
+![this is a webp file](/images/vscode-switch-tabs.webp)
+
+</details>
+
+[go back :house:][home]
+
+### MRU list
+
+<details>
+<summary>
+View Content
+</summary>
+
+ Select through a list of the most recently used files within this list. You can use up/down arrow keys to navigate through the list or use the right arrow key to open the content of a file
+
+![this is a webp file](/images/vscode-mru-list.webp)
+
+</details>
+
+[go back :house:][home]
 
 ### Select all occurrences
 
