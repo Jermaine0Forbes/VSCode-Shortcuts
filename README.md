@@ -19,26 +19,28 @@ A collection of different shortcut keys that make it easier to use vscode
 [select-all-occurrences]:#select-all-occurrences
 [toggle-terminal]:#toggle-terminal
 [toggle-sidebar]:#toggle-sidebar
-[switch-tabs]:#switch-tabs
+[switch-<kbd>tab</kbd>s]:#switch-<kbd>tab</kbd>s
+[mru-list]:#mru-list
 
 Description | Windows Command | Mac Command 
 --|--|--
-[Comment out lines][comment-out-lines] | ctrl + / | cmd + /
-[Delete lines][delete-lines] | ctrl + shift + K | cmd + shift + K
-[Duplicate lines][duplicate-lines] | alt + shift + :arrow_up:/:arrow_down: | option + shift + :arrow_up:/:arrow_down:
-[Find a symbol][find-a-symbol] | ctrl + shift + O | ctrl + shift + O
-[Find and replace][find-and-replace] | ctrl + F | cmd + F
-[Format code][format-code] | alt + shift + F | option + shift + F
-[Go to definition][go-to-definition] | ctrl + click | cmd + click
-[Highlight a line][highlight-a-line] | ctr + L | cmd + L
-[Indent][indent] | tab | tab
-[Moving lines][moving-lines] | alt + :arrow_up:/:arrow_down: | option + :arrow_up:/:arrow_down:
-[Multiple cursors][multiple-cursors] | ctrl + alt + :arrow_up:/:arrow_down: | cmd + option + :arrow_up:/:arrow_down:
-[Quick open][quick-open] | ctrl + P | cmd + P
-[Reverse indent][reverse-indent] | shift + tab | shift + tab
-[Toggle terminal][toggle-terminal] | ctrl + \` | cmd +   \`
-[Toggle sidebar][toggle-sidebar] | ctrl + B | cmd + B
-[Switch tabs][switch-tabs] | ctrl + <kbd>page up</kbd>/<kbd>page down</kbd> | cmd + <kbd>page up</kbd>/<kbd>page down</kbd>
+[Comment out lines][comment-out-lines] | <kbd><kbd>ctrl</kbd></kbd>+<kbd>/</kbd> |  <kbd>cmd</kbd> + <kbd>/</kbd>
+[Delete lines][delete-lines] | <kbd><kbd>ctrl</kbd></kbd> + <kbd><kbd>shift</kbd></kbd> + <kbd>K</kbd> | <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd>
+[Duplicate lines][duplicate-lines] | <kbd>alt</kbd> + <kbd>shift</kbd> + :arrow_up:/:arrow_down:  | <kbd>option</kbd> + <kbd>shift</kbd> + :arrow_up:/:arrow_down: 
+[Find a symbol][find-a-symbol] | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>O</kbd>  | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>O</kbd> 
+[Find and replace][find-and-replace] | <kbd>ctrl</kbd> + <kbd>F</kbd>| <kbd>cmd</kbd> + <kbd>F</kbd>
+[Format code][format-code] | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>F</kbd>| <kbd>option</kbd> + <kbd>shift</kbd> + <kbd>F</kbd>
+[Go to definition][go-to-definition] | <kbd>ctrl</kbd> + click | <kbd>cmd</kbd> + click 
+[Highlight a line][highlight-a-line] | <kbd>ctrl</kbd>+ <kbd>L</kbd> | <kbd>cmd</kbd> + <kbd>L</kbd> 
+[Indent][indent] | <kbd>tab</kbd> | <kbd>tab</kbd> 
+[Moving lines][moving-lines] | <kbd>alt</kbd> + :arrow_up:/:arrow_down:  | <kbd>option</kbd> + :arrow_up:/:arrow_down: 
+[Multiple cursors][multiple-cursors] | <kbd>ctrl</kbd> + <kbd>alt</kbd> + :arrow_up:/:arrow_down:  | <kbd>cmd</kbd> + <kbd>option</kbd> + :arrow_up:/:arrow_down: 
+[Quick open][quick-open] | <kbd>ctrl</kbd> + <kbd>P</kbd> | <kbd>cmd</kbd> + <kbd>P</kbd>
+[Reverse indent][reverse-indent] | <kbd>shift</kbd> + <kbd>tab</kbd> | <kbd>shift</kbd> + <kbd>tab</kbd>
+[Toggle terminal][toggle-terminal] | <kbd>ctrl</kbd> + <kbd>\`</kbd> | <kbd>cmd</kbd> +   <kbd>\`</kbd> 
+[Toggle sidebar][toggle-sidebar] | <kbd>ctrl</kbd> + <kbd>B</kbd>   | <kbd>cmd</kbd> + <kbd>B</kbd>   
+[Switch <kbd>tab</kbd>s][switch-<kbd>tab</kbd>s] | <kbd>ctrl</kbd>  + <kbd>page up</kbd>/<kbd>page down</kbd> | <kbd>cmd</kbd> + <kbd>page up</kbd>/<kbd>page down</kbd>
+[MRU list][mru-list] | <kbd><kbd>ctrl</kbd></kbd> + <kbd>tab</kbd> | <kbd>cmd</kbd> + <kbd>tab</kbd> 
 
 ### Select all occurrences
 
@@ -110,7 +112,7 @@ View Content
 </summary>
 
 **Note**
-In order to highlight multiple lines you have to first do (ctr + L | cmd + L), then hold the SHIFT button and use the up/down arrow keys
+In order to highlight multiple lines you have to first do (<kbd>ctrl</kbd>+ <kbd>L</kbd> | <kbd>cmd</kbd> + <kbd>L</kbd>), then hold the <kbd>shift</kbd> button and use the up/down arrow keys
 
 ![this is a webp file](/images/vs-moving-lines.webp)
 
@@ -143,7 +145,7 @@ View Content
 Select or highlight lines with this command
 
 **Note**
-If you hold the shift key and press up/down arrow keys you can highlight multiples lines
+If you hold the <kbd>shift</kbd> key and press up/down arrow keys you can highlight multiples lines
 
 ![this is a webp file](/images/vscode-highlight-a-line.webp)
 
